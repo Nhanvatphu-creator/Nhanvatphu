@@ -1,0 +1,11 @@
+main img{
+    width: 20vw;
+    height: auto;
+}
+main p{
+    width: 800px;
+    word-wrap: break-word;
+}
+footer .phude{
+    color: blue;
+}
